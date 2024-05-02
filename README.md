@@ -3,10 +3,14 @@
 #### Technical Skills: SAS, SQL, Python, R, Tableau
 
 ## Education
-- Master of Science, Data Science | Bellevue University (_2022 - 2024_)
-- Nanodegree Certification, SQL | Udacity (_2020_)
-- Nanodegree Certification, Data Analyst | Udacity (_2020_)
-- Bachelor of Arts, Physics | Gustavus Adolphus College (_2013 – 2017_)
+- Master of Science, Data Science
+  - Bellevue University (_2022 - 2024_)
+- Nanodegree Certification, SQL
+  - Udacity (_2020_)
+- Nanodegree Certification, Data Analyst
+  - Udacity (_2020_)
+- Bachelor of Arts, Physics
+  - Gustavus Adolphus College (_2013 – 2017_)
 
 ## Work Experience
 **Senior Analyst @ Aetna, A CVS Health Company (_Jan. 2022 - Present_)**
