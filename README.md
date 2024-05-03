@@ -25,3 +25,19 @@
 - Directed the submission of Plan Communication Transactions to CMS and manage the associated Submission Helpdesk inbox   
 - Designed recurring and ad hoc reports using SAS and SQL
 
+**Quality Analyst, Quality Engineering @ ReSound (_Apr. 2020 - Sep. 2021_)**
+- Transformed complex remake and repair data for medical devices into usable information and actionable items to  improve product and process quality
+- Created weekly, monthly, and ad hoc analyses using QlikSense
+- Presented analyses to global management and engineering teams
+- Developed key performance indicators using descriptive statistics to monitor device quality
+
+**Quality Coordinator, Quality Engineering @ ReSound (_Aug. 2018 - Apr. 2020_)**
+- Managed a project involving computer software validation, decision-making processes and quality-related data
+- Applied root cause analysis to investigate defected customer devices and trend recurring defects
+- Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles
+
+## Projects
+- Customer Segmentation Using K-Means Clustering
+  - Text will go here with a description of the project. Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah .
+
+![Customer Segmentation](/assets/images/Customer_Segmentation_Preview.PNG)
