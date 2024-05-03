@@ -41,4 +41,4 @@
 ### Customer Segmentation Using K-Means Clustering
 Text will go here with a description of the project. Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah .
 
-![Customer Segmentation](/assets/images/Customer_Segmentation_Preview.PNG)
+![Customer Segmentation](/assets/images/Customer_Segmentation_Preview_v2.jpeg)
