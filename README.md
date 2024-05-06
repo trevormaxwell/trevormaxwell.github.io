@@ -44,7 +44,7 @@
 ## Projects
 
 ### Customer Segmentation Using K-Means Clustering
-Used **Python** to devolop K-Means Clustering model to create customer segments. The segments can be used to build marketing strategies to generate more customers as well as improve current policies or generate new policies. 
+Used **Python** to develop K-Means Clustering model that created customer segments. The segments can be used to build marketing strategies that generate more customers as well as improve current policies or generate new policies. 
 
 ![Customer Segmentation Preview](/assets/images/Customer_Segmentation_Preview_v2.jpeg)
 
