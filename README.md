@@ -2,6 +2,11 @@
 
 #### Technical Skills: SAS, SQL, Python, R, Tableau
 
+### Contact
+- Email: trevormaxwell08@gmail.com
+- Phone: (612)-462-6372
+- Location: Philadelphia, PA 19103
+
 ## Education
 - Master of Science, Data Science
   - Bellevue University (_2022 - 2024_)
@@ -39,12 +44,12 @@
 ## Projects
 
 ### Customer Segmentation Using K-Means Clustering
-Text will go here with a description of the project. Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah .
+Used **Python** to devolop K-Means Clustering model to create customer segments. The segments can be used to build marketing strategies to generate more customers as well as improve current policies or generate new policies. 
 
 ![Customer Segmentation Preview](/assets/images/Customer_Segmentation_Preview_v2.jpeg)
 
 
 ### Marketing Offer Acceptance Prediction
-Text will go here with a description of the project. Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah .
+Text will go here with a description of the project. 
 
 ![Marketing Offer Acceptance Preview](/assets/images/Marketing_Campaign_Preview.jpg)
