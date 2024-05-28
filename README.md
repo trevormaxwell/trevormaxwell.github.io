@@ -48,9 +48,7 @@ Used **Python** to develop unsupervised machine learning model that created cust
 
 ![Customer Segmentation Preview](/assets/images/Customer_Segmentation_Preview_v2.jpeg)
 
-
-
-
+\n
 ### Marketing Offer Acceptance Prediction
 Supervised machine learning models were developed using **Python** to predict which customers are most likely to respond to an ad campaign. The model selection phase determined the Random Forest model had the best outcome based on the accuracy and precision scores. Predicting who is most likely to respond to an ad campaign allows for the business to have better targeted marketing strategies.  
 
