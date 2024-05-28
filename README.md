@@ -39,7 +39,7 @@
 **Quality Coordinator, Quality Engineering @ ReSound (_Aug. 2018 - Apr. 2020_)**
 - Managed a project involving computer software validation, decision-making processes and quality-related data
 - Applied root cause analysis to investigate defected customer devices and trend recurring defects
-- Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles
+- Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles <br />
 
  
 ## Data Science Projects
