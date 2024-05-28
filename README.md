@@ -21,7 +21,7 @@
 **Senior Analyst @ Aetna, A CVS Health Company (_Jan. 2022 - Present_)**
 - Design and implement SQL tables to enhance business functionality and streamline reconciliation processes
 - Develop automated reporting solutions using SAS to improve decision-making processes for stakeholders
-- Manage and transmit relevant to data scientists for ingestion by their predictive models, leading to improved member retention
+- Manage and transmit relevant data to data scientists for ingestion by predictive models, leading to improved member retention and reduction in customer complaints
 - Continuously enhance programs to improve reporting accuracy
 
 **Data and Analytics Consultant @ Aetna, A CVS Health Company (_Nov. 2020 - Jan. 2022_)**
