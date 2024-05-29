@@ -73,7 +73,7 @@ Used **Python** to predict mortality with supervised machine learning models. Ba
 
 ![Mortality Prediction Preview](/assets/images/Mortality_Prediction_Preview.jpg)
 
-## Data Gathering from SportRadar API
+## [Data Gathering from SportRadar API](https://github.com/trevormaxwell/SportRadar-API)
 Connected to the SportRadar API using **Python** to gather depth chart data for running backs in the NFL from 2006 - 2017. Gathering data from an API crucial for data science and software development. APIs are cost-effectiveness and vital for accessing real-time information and scalability. 
 
 ![SportRadar API Preview](/assets/images/SportRadar_API_Preview.jpg)
