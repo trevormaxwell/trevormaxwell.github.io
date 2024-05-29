@@ -39,7 +39,7 @@
 **Quality Coordinator, Quality Engineering @ ReSound (_Aug. 2018 - Apr. 2020_)**
 - Managed a project involving computer software validation, decision-making processes and quality-related data
 - Applied root cause analysis to investigate defected customer devices and trend recurring defects
-- Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles <br />
+- Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles
 
  
 ## Data Science Projects
@@ -67,11 +67,16 @@ Used **PyCharm** to develop a connection to the Open Weather Map API and output 
 
 ![Weather_Preview](/assets/images/Weather_Preview.jpg)
 
+### Heart Failure and Mortality Prediction
+
+
+![Mortality Preview](/assets/images/Mortality_Preview.jpg)
  
 ### Follow-Up Treatment Prediction: Inpatient or Outpatient Visit
 Developed supervised machine learning models in **Python** to predict if a patient's next treatment should be an inpatient or outpatient visit. Four models were trained to the data, and the Random Forest model performed best based on the accuracy score. This prediction could aid the hospital in planning/staffing for the visits as well reducing the decision-fatigue on providers.
 
 ![Inpatient vs Outpatient Preview](/assets/images/Inpatient_vs_Outpatient_Preview.jpg)
+
 
  
 ### Reducing Preventable Asthma-Related Hospital Visits
