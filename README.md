@@ -42,33 +42,33 @@
 - Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles
 
  
-## Data Science Projects
+# Data Science Projects
 - Click the header to view the Github Repository.
 
-### [Customer Segmentation Using K-Means Clustering](https://github.com/trevormaxwell/Customer-Segmentation-Using-K-Means-Clustering)
+## [Customer Segmentation Using K-Means Clustering](https://github.com/trevormaxwell/Customer-Segmentation-Using-K-Means-Clustering)
 Used **Python** to develop unsupervised machine learning model that created customer segments. The model trained and deployed was K-Means Clustering. The segments can be used to build marketing strategies that generate more customers as well as improve current policies or generate new policies. 
 
 ![Customer Segmentation Preview](/assets/images/Customer_Segmentation_Preview_v2.jpeg)
 
  
-### [Marketing Offer Acceptance Prediction](https://github.com/trevormaxwell/Marketing-Offer-Acceptance-Prediction)
+## [Marketing Offer Acceptance Prediction](https://github.com/trevormaxwell/Marketing-Offer-Acceptance-Prediction)
 Supervised machine learning models were developed using **Python** to predict which customers are most likely to respond to an ad campaign. The model selection phase determined the Random Forest model had the best outcome based on the accuracy and precision scores. Predicting who is most likely to respond to an ad campaign allows for the business to have better targeted marketing strategies.  
 
 ![Marketing Offer Acceptance Preview](/assets/images/Marketing_Campaign_Preview.jpg)
 
  
-### Time Series Forecasting for National Sales
+## Time Series Forecasting for National Sales
 Developed time series forcasting models to sales data for a national company using **Python**. ARIMA, SARIMA and XGBoost models were trained to determine which model was most accurate. Based on the RMSE, the XGBoost model fit best. Forecasting sales can aid organizational operations planning as well as the development of key performance indicators.
 
 ![Forecasting Preview](/assets/images/Forecasting_Preview.jpg)
 
  
-### Open Weather Map API
+## Open Weather Map API
 Used **PyCharm** to develop a connection to the Open Weather Map API and output current weather based on the inputted city and state or zipcode. Connecting to the API provides the current weather for the input location in real-time.
 
 ![Weather_Preview](/assets/images/Weather_Preview.jpg)
 
-### Heart Failure and Mortality Prediction
+## Heart Failure and Mortality Prediction
 Used **Python** to predict mortality with supervised machine learning models. Based on accuracy and recall scores, Random Forest Classifier performed best. Hospitals and providers could use this model to provide additional care and reduce follow-up time for patients at high risk. 
 
 ![Mortality Prediction Preview](/assets/images/Mortality_Prediction_Preview.jpg)
@@ -78,17 +78,17 @@ Connected to the SportRadar API using **Python** to gather depth chart data for 
 
 ![SportRadar API Preview](/assets/images/SportRadar_API_Preview.jpg)
 
-### [Follow-Up Treatment Prediction: Inpatient or Outpatient Visit](https://github.com/trevormaxwell/Follow-Up-Treatment-Prediction)
+## [Follow-Up Treatment Prediction: Inpatient or Outpatient Visit](https://github.com/trevormaxwell/Follow-Up-Treatment-Prediction)
 Developed supervised machine learning models in **Python** to predict if a patient's next treatment should be an inpatient or outpatient visit. Four models were trained to the data, and the Random Forest model performed best based on the accuracy score. This prediction could aid the hospital in planning/staffing for the visits as well reducing the decision-fatigue on providers.
 
 ![Inpatient vs Outpatient Preview](/assets/images/Inpatient_vs_Outpatient_Preview.jpg)
 
-### [Hospital Readmission Prediction](https://github.com/trevormaxwell/Hospital-Readmissions-Analysis/tree/main)
+## [Hospital Readmission Prediction](https://github.com/trevormaxwell/Hospital-Readmissions-Analysis/tree/main)
 An exploratory data analysis and logistic regression model were performed using **Python** on patient data which included the time spent in hospital of the initial visit, diagnoses, number of medications administered, number of procedures and lab procedures perfomred, and lab results among others. The analysis concluded that with each additional medication administered increased the odds of the patient being readmitted by 1.01%.
 
 ![Readmission Preview](/assets/images/Readmission_Preview.jpg)
 
-### Reducing Preventable Asthma-Related Hospital Visits
+## Reducing Preventable Asthma-Related Hospital Visits
 Used **R** to collect, clean, and combine data from three separate sources: preventable asthma hospital visits, emergency department hospital visits for asthma, and the average annual temperature in the county in which the visits occured. Linear and Multiple Linear Regression models were fit to the data, and the Multiple Linear Regression Model fit best based on the adjusted R-squared value. The analysis concluded that as the average annual temperature increases, the rate of preventable asthma visits slightly increases.  
 
 ![Preventable Asthma Visits Preview](/assets/images/Preventable_Asthma_Visits_Preview.jpg)
