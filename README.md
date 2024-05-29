@@ -43,7 +43,7 @@
 
  
 ## Data Science Projects
-- Click the header to view Github Repository.
+- Click the header to view the Github Repository.
 
 ### [Customer Segmentation Using K-Means Clustering](https://github.com/trevormaxwell/Customer-Segmentation-Using-K-Means-Clustering)
 Used **Python** to develop unsupervised machine learning model that created customer segments. The model trained and deployed was K-Means Clustering. The segments can be used to build marketing strategies that generate more customers as well as improve current policies or generate new policies. 
