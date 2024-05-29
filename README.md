@@ -68,7 +68,7 @@ Used **PyCharm** to develop a connection to the Open Weather Map API and output 
 
 ![Weather_Preview](/assets/images/Weather_Preview.jpg)
 
-## Heart Failure and Mortality Prediction
+## [Heart Failure and Mortality Prediction](https://github.com/trevormaxwell/Heart-Failure-and-Mortality-Prediction)
 Used **Python** to predict mortality with supervised machine learning models. Based on accuracy and recall scores, Random Forest Classifier performed best. Hospitals and providers could use this model to provide additional care and reduce follow-up time for patients at high risk. 
 
 ![Mortality Prediction Preview](/assets/images/Mortality_Prediction_Preview.jpg)
