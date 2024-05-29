@@ -78,8 +78,11 @@ Developed supervised machine learning models in **Python** to predict if a patie
 
 ![Inpatient vs Outpatient Preview](/assets/images/Inpatient_vs_Outpatient_Preview.jpg)
 
+### Hospital Readmission Prediction
+An exploratory data analysis and linear regression model were performed using **Python** on patient data which included the time spent in hospital of the initial visit, diagnoses, number of medications administered, number of procedures and lab procedures perfomred, and lab results among others. The analysis concluded that with each additional medication administered increased the odds of the patient being readmitted by 1.01%.
 
- 
+![Readmission Preview](/assets/images/Readmission_Preview.jpg)
+
 ### Reducing Preventable Asthma-Related Hospital Visits
 Used **R** to collect, clean, and combine data from three separate sources: preventable asthma hospital visits, emergency department hospital visits for asthma, and the average annual temperature in the county in which the visits occured. Linear and Multiple Linear Regression models were fit to the data, and the Multiple Linear Regression Model fit best based on the adjusted R-squared value. The analysis concluded that as the average annual temperature increases, the rate of preventable asthma visits slightly increases.  
 
