@@ -78,7 +78,7 @@ Connected to the SportRadar API using **Python** to gather depth chart data for 
 
 ![SportRadar API Preview](/assets/images/SportRadar_API_Preview.jpg)
 
- ### [Follow-Up Treatment Prediction: Inpatient or Outpatient Visit](https://github.com/trevormaxwell/Follow-Up-Treatment-Prediction)
+### [Follow-Up Treatment Prediction: Inpatient or Outpatient Visit](https://github.com/trevormaxwell/Follow-Up-Treatment-Prediction)
 Developed supervised machine learning models in **Python** to predict if a patient's next treatment should be an inpatient or outpatient visit. Four models were trained to the data, and the Random Forest model performed best based on the accuracy score. This prediction could aid the hospital in planning/staffing for the visits as well reducing the decision-fatigue on providers.
 
 ![Inpatient vs Outpatient Preview](/assets/images/Inpatient_vs_Outpatient_Preview.jpg)
