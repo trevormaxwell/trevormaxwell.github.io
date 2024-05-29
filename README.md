@@ -79,7 +79,7 @@ Developed supervised machine learning models in **Python** to predict if a patie
 ![Inpatient vs Outpatient Preview](/assets/images/Inpatient_vs_Outpatient_Preview.jpg)
 
 ### [Hospital Readmission Prediction](https://github.com/trevormaxwell/Hospital-Readmissions-Analysis/tree/main)
-An exploratory data analysis and linear regression model were performed using **Python** on patient data which included the time spent in hospital of the initial visit, diagnoses, number of medications administered, number of procedures and lab procedures perfomred, and lab results among others. The analysis concluded that with each additional medication administered increased the odds of the patient being readmitted by 1.01%.
+An exploratory data analysis and logistic regression model were performed using **Python** on patient data which included the time spent in hospital of the initial visit, diagnoses, number of medications administered, number of procedures and lab procedures perfomred, and lab results among others. The analysis concluded that with each additional medication administered increased the odds of the patient being readmitted by 1.01%.
 
 ![Readmission Preview](/assets/images/Readmission_Preview.jpg)
 
