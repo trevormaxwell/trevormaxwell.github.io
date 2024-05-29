@@ -43,6 +43,7 @@
 
  
 ## Data Science Projects
+- Click the header to view Github Repository.
 
 ### Customer Segmentation Using K-Means Clustering
 Used **Python** to develop unsupervised machine learning model that created customer segments. The model trained and deployed was K-Means Clustering. The segments can be used to build marketing strategies that generate more customers as well as improve current policies or generate new policies. 
@@ -68,9 +69,9 @@ Used **PyCharm** to develop a connection to the Open Weather Map API and output 
 ![Weather_Preview](/assets/images/Weather_Preview.jpg)
 
 ### Heart Failure and Mortality Prediction
+Used **Python** to predict mortality with supervised machine learning models. Based on accuracy and recall scores, Random Forest Classifier performed best. Hospitals and providers could use this model to provide additional care and reduce follow-up time for patients at high risk. 
 
-
-![Mortality Preview](/assets/images/Mortality_Preview.jpg)
+![Mortality Prediction Preview](/assets/images/Mortality_Prediction_Preview.jpg)
  
 ### Follow-Up Treatment Prediction: Inpatient or Outpatient Visit
 Developed supervised machine learning models in **Python** to predict if a patient's next treatment should be an inpatient or outpatient visit. Four models were trained to the data, and the Random Forest model performed best based on the accuracy score. This prediction could aid the hospital in planning/staffing for the visits as well reducing the decision-fatigue on providers.
