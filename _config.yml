@@ -4,3 +4,8 @@ logo: /assets/images/profile_cropped.jpg
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-tabs
+
+description:
+<p align="center">
+  <a href="https://www.linkedin.com/in/trevormaxwell/">LinkedIn</a>
+</p>  
