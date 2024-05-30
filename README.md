@@ -8,13 +8,13 @@
 - **Location: Philadelphia, PA 19103**
 
 ## Education
-- Master of Science, Data Science
+- **Master of Science, Data Science**
   - Bellevue University (_2022 - 2024_)
-- Nanodegree Certification, SQL
+- **Nanodegree Certification, SQL**
   - Udacity (_2020_)
-- Nanodegree Certification, Data Analyst
+- **Nanodegree Certification, Data Analyst**
   - Udacity (_2020_)
-- Bachelor of Arts, Physics
+- **Bachelor of Arts, Physics**
   - Gustavus Adolphus College (_2013 – 2017_)
 
 ## Work Experience
