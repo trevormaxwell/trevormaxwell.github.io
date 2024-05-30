@@ -2,7 +2,7 @@
 
 #### Technical Skills: SAS, SQL, Python, R, Tableau
 
-### Contact
+## Contact
 - Email: trevormaxwell08@gmail.com
 - Phone: (612)-462-6372
 - Location: Philadelphia, PA 19103
