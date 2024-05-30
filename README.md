@@ -63,7 +63,7 @@ Developed time series forcasting models to sales data for a national company usi
 ![Forecasting Preview](/assets/images/Forecasting_Preview.jpg)
 
  
-## [Collecting Current Weather Data Via OpenWeatherMap API](https://github.com/trevormaxwell/Open-Weather-Map-API)
+## [Collecting Real-Time Weather Data Via OpenWeatherMap API](https://github.com/trevormaxwell/Open-Weather-Map-API)
 
 Used **PyCharm** to develop a connection to the Open Weather Map API and output current weather based on the inputted city and state or zipcode. Connecting to the API provides the current weather for the input location in real-time.
 
