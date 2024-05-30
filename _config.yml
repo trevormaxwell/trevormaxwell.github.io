@@ -2,10 +2,8 @@ title: Trevor Maxwell
 logo: /assets/images/profile_cropped.jpg
 # show_downloads: true
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-tabs
 
 description:
-<p align="center">
+  <p align="center">
   <a href="https://www.linkedin.com/in/trevormaxwell/">LinkedIn</a>
-</p>  
+  </p>  
