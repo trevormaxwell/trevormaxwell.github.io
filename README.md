@@ -3,24 +3,24 @@
 #### Technical Skills: SAS, SQL, Python, R, Tableau
 
 ## Contact
-- Email: trevormaxwell08@gmail.com
-- Phone: (612)-462-6372
-- Location: Philadelphia, PA 19103
+- **Email: trevormaxwell08@gmail.com**
+- **Phone: (612)-462-6372**
+- **Location: Philadelphia, PA 19103**
 
 ## Education
-- Master of Science, Data Science
-  - Bellevue University (_2022 - 2024_)
-- Nanodegree Certification, SQL
-  - Udacity (_2020_)
-- Nanodegree Certification, Data Analyst
-  - Udacity (_2020_)
-- Bachelor of Arts, Physics
-  - Gustavus Adolphus College (_2013 – 2017_)
+- **Master of Science, Data Science**
+  - **Bellevue University (_2022 - 2024_)**
+- **Nanodegree Certification, SQL**
+  - **Udacity (_2020_)**
+- **Nanodegree Certification, Data Analyst**
+  - **Udacity (_2020_)**
+- **Bachelor of Arts, Physics**
+  - **Gustavus Adolphus College (_2013 – 2017_)**
 
 ## Work Experience
 **Senior Analyst @ Aetna, A CVS Health Company (_Jan. 2022 - Present_)**
-- Design and implement SQL tables to enhance business functionality and streamline reconciliation processes
 - Develop automated reporting solutions using SAS to improve decision-making processes for stakeholders
+- Design and implement SQL tables to enhance business functionality and streamline decision-making processes
 - Manage and transmit relevant data to data scientists for ingestion by predictive models, leading to improved member retention and reduction in customer complaints
 - Continuously enhance programs to improve reporting accuracy
 
