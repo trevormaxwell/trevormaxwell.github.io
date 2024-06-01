@@ -45,6 +45,12 @@
 # Data Science Projects
 - Click the header to view the Github Repository.
 
+## [Time Series Forecasting for National Sales](https://github.com/trevormaxwell/Time-Series-Forecasting-for-National-Sales)
+Developed time series forcasting models to sales data for a national company using **Python**. ARIMA, SARIMA and XGBoost models were trained to determine which model was most accurate. Based on the RMSE, the XGBoost model fit best. Forecasting sales can aid organizational operations planning as well as the development of key performance indicators.
+
+![Forecasting Preview](/assets/images/Forecasting_Preview.jpg)
+
+
 ## [Customer Segmentation Using K-Means Clustering](https://github.com/trevormaxwell/Customer-Segmentation-Using-K-Means-Clustering)
 Used **Python** to develop unsupervised machine learning model that created customer segments. The model trained and deployed was K-Means Clustering. The segments can be used to build marketing strategies that generate more customers as well as improve current policies or generate new policies. 
 
@@ -55,12 +61,6 @@ Used **Python** to develop unsupervised machine learning model that created cust
 Supervised machine learning models were developed using **Python** to predict which customers are most likely to respond to an ad campaign. The model selection phase determined the Random Forest model had the best outcome based on the accuracy and precision scores. Predicting who is most likely to respond to an ad campaign allows for the business to have better targeted marketing strategies.  
 
 ![Marketing Offer Acceptance Preview](/assets/images/Marketing_Campaign_Preview.jpg)
-
- 
-## Time Series Forecasting for National Sales
-Developed time series forcasting models to sales data for a national company using **Python**. ARIMA, SARIMA and XGBoost models were trained to determine which model was most accurate. Based on the RMSE, the XGBoost model fit best. Forecasting sales can aid organizational operations planning as well as the development of key performance indicators.
-
-![Forecasting Preview](/assets/images/Forecasting_Preview.jpg)
 
  
 ## [Collecting Real-Time Weather Data Via OpenWeatherMap API](https://github.com/trevormaxwell/Open-Weather-Map-API)
