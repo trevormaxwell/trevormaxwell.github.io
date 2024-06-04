@@ -17,7 +17,7 @@
 - **Bachelor of Arts, Physics**
   - Gustavus Adolphus College (_2013 – 2017_)
 
-## Work Experience
+## Professional Background
 **Senior Analyst @ Aetna, A CVS Health Company (_Jan. 2022 - Present_)**
 - Develop automated reporting solutions using SAS to improve decision-making processes for stakeholders
 - Design and implement SQL tables to enhance business functionality and streamline decision-making processes
