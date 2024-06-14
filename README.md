@@ -1,6 +1,8 @@
 # Data Scientist
 
-#### Technical Skills: SAS, SQL, Python, R, Tableau
+#### Languages/Tools: SAS, SQL, Python, R, Tableau
+#### Analytics: Supervised Machine Learning Algorithms, Unsupervised Machine Learning Algorithms, Data Visualization, Exploratory Data Analysis, Scikit-Learn, Numpy, Pandas
+
 
 ## Contact
 - **Email: trevormaxwell08@gmail.com**
