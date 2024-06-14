@@ -21,27 +21,31 @@
 
 ## Professional Background
 **Senior Analyst @ Aetna, A CVS Health Company (_Jan. 2022 - Present_)**
-- Develop automated reporting solutions using SAS to improve decision-making processes for stakeholders
-- Design and implement SQL tables to enhance business functionality and streamline decision-making processes
-- Manage and transmit relevant data to data scientists for ingestion by predictive models, leading to improved member retention and reduction in customer complaints
-- Continuously enhance programs to improve reporting accuracy
+ - Develop automated reporting solutions using SAS to improve decision-making processes for stakeholders
+ - Design and implement SQL tables to deliver insights and solutions for business processes
+ - Manage and transmit data to data scientists for ingestion by their predictive models leading to reduced complaints by members
+ - Work independently on reporting solutions using a development, test, and production methodology
+
 
 **Data and Analytics Consultant @ Aetna, A CVS Health Company (_Nov. 2020 - Jan. 2022_)**
-- Interpreted business needs into technical requirements to build reports for Medicare business teams
-- Collaborated with internal business partners and external vendors to develop and transfer Medicare Advantage eligibility reports via sFTP
-- Directed the submission of Plan Communication Transactions to CMS and managed the associated Submission Helpdesk inbox   
-- Designed recurring and ad hoc reports using SAS and SQL
+ - Transformed internal customer needs into technical requirements to build reporting solutions
+ - Collaborated with cross-functional teams to develop and transfer Medicare Advantage eligibility reports via sFTP
+ - Directed the submission of Plan Communication Transactions to CMS and managed the associated Submission Helpdesk inbox
+ - Designed recurring and ad hoc reports using SAS and SQL
 
-**Analyst, Quality Engineering @ ReSound (_Apr. 2020 - Sep. 2021_)**
-- Transformed complex remake and repair data for medical devices into usable information and actionable items to  improve product and process quality
-- Created weekly, monthly, and ad hoc analyses using QlikSense
-- Presented analyses to global management and engineering teams
-- Developed key performance indicators using descriptive statistics to monitor device quality
+
+**Analyst, Quality Engineering @ ReSound (_Apr. 2020 - Sep. 2020_)**
+ - Collected, processed, and organized medical device data for quality engineers and manufacturing engineers
+ - Created weekly, monthly, and ad hoc analyses using QlikSense
+ - Presented analyses to global management and engineering teams
+ - Developed key performance indicators to monitor device quality
+
 
 **Coordinator, Quality Engineering @ ReSound (_Aug. 2018 - Apr. 2020_)**
-- Managed a project involving computer software validation, decision-making processes and quality-related data
-- Applied root cause analysis to investigate defected customer devices and trend recurring defects
-- Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles
+ - Managed a project involving computer software validation, decision-making processes and quality-related data
+ - Applied root cause analysis to investigate and trend defected devices
+ - Selected Continuous Improvement captain leading a team of assemblers to seek improvements on their daily tasks by applying Lean manufacturing principles
+
 
  
 # Data Science Projects
