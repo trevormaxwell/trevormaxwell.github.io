@@ -51,6 +51,12 @@
 # Data Science Projects
 - Click the header to view the Github Repository.
 
+## [ETL Using Copa America Statistics Through Sportmoks API](https://github.com/trevormaxwell/Time-Series-Forecasting-for-National-Sales)
+Placeholder for description of project.
+
+![ETL Preview](/assets/images/SportMonks_API_ETL_Dashboard_Screen_Record.gif)
+
+
 ## [Time Series Forecasting for National Sales](https://github.com/trevormaxwell/Time-Series-Forecasting-for-National-Sales)
 Developed time series forcasting models to sales data for a national company using **Python**. ARIMA, SARIMA and XGBoost models were trained to determine which model was most accurate. Based on the RMSE, the XGBoost model fit best. Forecasting sales can aid organizational operations planning as well as the development of key performance indicators.
 
