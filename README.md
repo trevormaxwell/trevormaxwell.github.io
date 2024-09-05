@@ -52,7 +52,7 @@
 - Click the header to view the Github Repository.
 
 ## [End-to-End Data Pipeline: ETL from API to SQL with Python for Tableau Visualizations](https://github.com/trevormaxwell/Time-Series-Forecasting-for-National-Sales)
-Developed an ETL solution using **Python** to extract Copa America data from four different Sportmonks API endpoints. This data was transformed and combined into clean datasets and loaded to two different **SQL** tables for efficient querying and reporting. The final output was visualized in an interactive Tableau dashboard, allowing for insightful analysis of key metrics and match results.
+Developed an end-to-end ETL solution using **Python** to extract Copa America data from four different Sportmonks API endpoints. This data was transformed and combined into clean datasets and loaded to two different **SQL** tables for efficient querying and reporting. The final output was visualized in an interactive Tableau dashboard, allowing for insightful analysis of key metrics and match results.
 
 ![ETL Preview](/assets/images/SportMonks_API_ETL_Dashboard_Screen_Record.gif)
 
